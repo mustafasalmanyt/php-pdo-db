@@ -16,7 +16,7 @@ Modern ve güvenli PHP/MySQL veritabanı işlemleri için geliştirilmiş hafif 
 
 1. Kütüphaneyi projenize dahil edin:
 ```php
-require_once 'database.php';
+require_once 'database.class.php';
 ```
 
 2. **Log sistemini dahil edin** (Zorunlu):
